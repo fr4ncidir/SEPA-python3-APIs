@@ -1,3 +1,5 @@
+![Upload Python Package](https://github.com/fr4ncidir/SEPA-python3-APIs/workflows/Upload%20Python%20Package/badge.svg)
+
 # SEPA-python3-APIs
 Client-side libraries for the SEPA platform (Python3)
 
