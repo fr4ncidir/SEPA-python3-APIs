@@ -4,7 +4,7 @@ with open("README.md","r") as fh:
     long_description = fh.read()
 
 setuptools.setup(name='sepy',
-      version='0.43.1',
+      version='0.43.2',
       description=' Client-side libraries for the SEPA platform (Python3) ',
       long_description=long_description,
       long_description_content_type="text/markdown",
